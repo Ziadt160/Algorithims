@@ -1,0 +1,3 @@
+﻿  SelectionSort.cpp
+c:\users\abdel\source\repos\selectionsort\selectionsort\selectionsort.cpp(32): warning C4101: 'temp': unreferenced local variable
+  SelectionSort.vcxproj -> C:\Users\Abdel\source\repos\SelectionSort\Debug\SelectionSort.exe
